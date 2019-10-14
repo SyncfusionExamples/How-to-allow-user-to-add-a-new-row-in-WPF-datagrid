@@ -5,7 +5,6 @@ This example illustrates how to add a new row in WPF DataGrid using buid in AddN
 
 ```xml
  <syncfusion:SfDataGrid  x:Name="dataGrid" 
-                         AllowSorting="False" 
                          ItemsSource="{Binding Orders}" 
                          AddNewRowPosition="Top"/>
 ```

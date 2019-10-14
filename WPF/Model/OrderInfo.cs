@@ -54,6 +54,9 @@ namespace SfDataGrid_Demo
             this.ShipCity = shipCity;
         }
 
+        public OrderInfo()
+        {}
+
         public event PropertyChangedEventHandler PropertyChanged;
         private void RaisePropertyChanged(string propertyName)
         {

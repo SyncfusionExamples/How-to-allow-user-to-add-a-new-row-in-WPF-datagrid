@@ -12,7 +12,6 @@
     </Window.DataContext>
     <Grid>
         <syncfusion:SfDataGrid  x:Name="dataGrid" 
-                                AllowSorting="False" 
                                 ItemsSource="{Binding Orders}" 
                                 AddNewRowPosition="Top"/>
     </Grid>

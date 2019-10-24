@@ -1,4 +1,7 @@
-﻿using System;
+﻿using Syncfusion.UI.Xaml.Grid;
+using Syncfusion.UI.Xaml.Grid.Helpers;
+using Syncfusion.UI.Xaml.ScrollAxis;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

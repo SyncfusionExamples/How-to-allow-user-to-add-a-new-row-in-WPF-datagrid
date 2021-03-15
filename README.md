@@ -1,4 +1,4 @@
-# How to allow user to add a new row in WPF datagrid
+# How to allow user to add a new row in WPF DataGrid (SfDataGrid)?
 
 ## About the sample
 

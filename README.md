@@ -11,5 +11,8 @@ This example illustrates how to add a new row in [WPF DataGrid](https://www.sync
                          ItemsSource="{Binding Orders}" 
                          AddNewRowPosition="Top"/>
 ```
+
+KB article - [How to allow user to add a new row in WPF DataGrid (SfDataGrid)?](https://www.syncfusion.com/kb/10814/how-to-allow-user-to-add-a-new-row-in-wpf-datagrid-sfdatagrid)
+
 ## Requirements to run the demo
 Visual Studio 2015 and above versions

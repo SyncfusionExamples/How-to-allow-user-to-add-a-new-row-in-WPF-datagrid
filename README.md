@@ -27,7 +27,8 @@ private void Button_Click(object sender, RoutedEventArgs e)
 **Customize default string of built-in AddNewRow**
 
 WPF DataGrid enables you to customize the watermark text of AddNewRow by changing value of AddNewRowText in Resource Designer.
-Initializing default values for AddNewRow
+
+**Initializing default values for AddNewRow**
 
 WPF DataGrid allows you to set the default values for AddNewRow while initiating through **AddNewRowInitiatingEventArgs.NewObject** property in [DataGrid.AddNewRowInitiating](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Grid.SfDataGrid.html#Syncfusion_UI_Xaml_Grid_SfDataGrid_AddNewRowInitiating) event.
 

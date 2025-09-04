@@ -1,6 +1,6 @@
 # How to allow user to add a new row in WPF DataGrid (SfDataGrid)?
 
-[WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid) provides built-in row called AddNewRow. It allows user to add a new row to underlying collection. You can enable or disable by setting [SfDataGrid.AddNewRowPosition](https://help.syncfusion.com/cr/cref_files/wpf/Syncfusion.SfGrid.WPF~Syncfusion.UI.Xaml.Grid.SfDataGrid~AddNewRowPosition.html) property. You can also set the position of built-in AddNewRow through `AddNewRowPosition` property.
+In [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid) provides built-in row called AddNewRow. It allows user to add a new row to underlying collection. You can enable or disable by setting [SfDataGrid.AddNewRowPosition](https://help.syncfusion.com/cr/cref_files/wpf/Syncfusion.SfGrid.WPF~Syncfusion.UI.Xaml.Grid.SfDataGrid~AddNewRowPosition.html) property. You can also set the position of built-in AddNewRow through `AddNewRowPosition` property.
 
 ```xml
  <syncfusion:SfDataGrid  x:Name="dataGrid" 
